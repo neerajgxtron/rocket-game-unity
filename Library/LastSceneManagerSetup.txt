@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/rocket game.unity
+  isLoaded: 1
+  isActive: 1
